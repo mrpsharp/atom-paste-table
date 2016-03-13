@@ -1,0 +1,18 @@
+{
+  "name": "paste-table",
+  "main": "./lib/paste-table",
+  "version": "0.0.0",
+  "description": "Allows pasting of tab separated text into html documents",
+  "keywords": [ "html"
+  ],
+  "activationCommands": {
+    "atom-workspace": "paste-table:paste-table"
+  },
+  "repository": "https://github.com/mrpsharp/paste-table",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
