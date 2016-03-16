@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "paste-table:paste-table"
   },
-  "repository": "https://github.com/mrpsharp/paste-table",
+  "repository": "https://github.com/mrpsharp/atom-paste-table",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
